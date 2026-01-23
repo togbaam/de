@@ -1,0 +1,5 @@
+streamlit
+pandas
+# numpy (nếu model cần)
+# scikit-learn (nếu model cần)
+# xgboost (nếu model cần)
