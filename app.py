@@ -1,4 +1,3 @@
-%%writefile app.py
 import streamlit as st
 import pandas as pd
 
@@ -233,3 +232,4 @@ with tab2:
             
     else:
         st.info("👈 Vui lòng nhập thông tin doanh nghiệp ở Tab 1 và nhấn 'Chạy Mô hình'")
+
